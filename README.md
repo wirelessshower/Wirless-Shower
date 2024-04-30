@@ -16,14 +16,14 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/wirelessshower/Wirless-Shower/blob/main/Assets/giphy.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ C# & Unity
+- ✨ Adobe Illustrator
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Dota 2 🫡
+- ✨ Watching Anime 
+- ✨ Huge OnePice & Jenna ortega fan 💕
+ 
 
 </br>
 </br>
