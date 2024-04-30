@@ -22,7 +22,7 @@
 ### - Hobbies : 
 - ✨ Dota 2 🫡
 - ✨ Watching Anime 
-- ✨ Huge OnePice & Jenna ortega fan 💕
+- ✨ Huge OnePice & Jenna Ortega fan 💕
  
 
 </br>
@@ -38,12 +38,12 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp%402x.png" alt="CSharp" width="140" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/unity%402x.png" alt="Unity" width="200" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/gamedev%402x.png" alt="GameDev" width="240" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/unity%402x.png" alt="Unity" width="1800" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/gamedev%402x.png" alt="GameDev" width="234" hight="50">
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio%402x.png" alt="VisualStudio" width="240" height="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="140" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/chrome%402x.png" alt="Chrome" width="200" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="135" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/chrome%402x.png" alt="Chrome" width="180" hight="50">
 </p>
 </br>
 </br>
