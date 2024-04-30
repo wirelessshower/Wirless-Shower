@@ -1,7 +1,7 @@
 # Q  hi прив👋 
 
 <div align="center">
-<img hight="480" width="343" alt="GIF" align="center" src="https://github.com/wirelessshower/Wirless-Shower/blob/main/Assets/gigigi.gif">
+<img hight="343" width="480" alt="GIF" align="center" src="https://github.com/wirelessshower/Wirless-Shower/blob/main/Assets/gigigi.gif">
 </div>
 
 </br>
