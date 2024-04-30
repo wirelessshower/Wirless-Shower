@@ -38,7 +38,7 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp%402x.png" alt="CSharp" width="140" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/unity%402x.png" alt="Unity" width="1800" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/unity%402x.png" alt="Unity" width="180" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/gamedev%402x.png" alt="GameDev" width="234" hight="50">
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio%402x.png" alt="VisualStudio" width="240" height="50">
